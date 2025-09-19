@@ -22,7 +22,7 @@ Dibangun menggunakan **PHP (CodeIgniter 3)**, **JavaScript**, dan **Bootstrap 4*
 ---
 
 ## 📸 Preview
-![Login](asset/img/screenshot/appsisemji/login.png)  
+![Login](./asset/img/screenshot/appsisemji/login.png)  
 ![Dashboard](asset/img/screenshot/appsisemji/dashboard.png)  
 ![Jadwal](asset/img/screenshot/appsisemji/monitorin.png)  
 
