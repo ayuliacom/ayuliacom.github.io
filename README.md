@@ -22,9 +22,9 @@ Dibangun menggunakan **PHP (CodeIgniter 3)**, **JavaScript**, dan **Bootstrap 4*
 ---
 
 ## 📸 Preview
-![Login](main/asset/img/screenshot/appsisemji/login.png)  
-![Dashboard](asset/img/screenshot/appsisemji/dashboard.png)  
-![Jadwal](asset/img/screenshot/appsisemji/monitorin.png)  
+![Login](asset/img/screenshooot/appsisemji/login.png)  
+![Dashboard](asset/img/screenshoot/appsisemji/dashboard.png)  
+![Jadwal](asset/img/screenshoot/appsisemji/monitorin.png)  
 
 > Catatan: Screenshot hanya contoh. File asli ada di folder `/screenshots`.
 
